@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Deployment
+
+https://prakritirajbhandari.github.io/Reactprofile/
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -49,6 +53,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ### Screenshot
 <img src="public/images/screenshot.PNG" alt="Desktop image "/>
 
+
 ### Code Splitting
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
@@ -65,9 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ### `npm run build` fails to minify
 
