@@ -45,7 +45,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 ### Screenshot
-<img src="images/screenshot.PNG" alt="Database Structure "/>
+<img src="public/images/screenshot.PNG" alt="Desktop image "/>
 
 ### Code Splitting
 
